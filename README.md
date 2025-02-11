@@ -1,2 +1,2 @@
-# devops-angular
+# DevOps Projekt
 Budget Tracker Angular & PHP
